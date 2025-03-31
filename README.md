@@ -1,4 +1,4 @@
-# gfcodes
+# коди для ролтві ґф
 
 ### Код автора   
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yriys/gfcodes/blob/main/author.ipynb)  
