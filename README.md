@@ -6,6 +6,11 @@
 ### Код стенів
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yriys/gfcodes/blob/main/stans.ipynb)  
 
+### Кольоровий код
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yriys/gfcodes/blob/main/color.ipynb)  
+(ця фігня видає ргб кольори, які ви можете вкинути в гугл щоб побачити)
+
+
 **Як запустити:**  
 Натисніть на кнопку **"Open in Colab"**, щоб відкрити код у Google Colab. 
 
